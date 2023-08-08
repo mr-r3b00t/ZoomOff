@@ -1,0 +1,6 @@
+﻿IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+FileSha1,deadbeafb263b10b284405889fb25dcc3bf1aebb,2018-09-16T12:11:06.2446367Z,BlockAndRemediate,Informational,"File SHA1 custom TI example","malware downloader","Recommended actions should be here","GroupName1,GroupName2,GroupName3","SuspiciousActivity","T0000,T0001,T0002",true
+FileSha256,deadbeafd034a66599407e2fa2ccaf15d11f1079fc0d012bb7b2b8ce66673689,,Audit,Low,File SHA256 custom TI example,"Red Team Activity","Recommended actions should be here","GroupName1","Discovery","T1046",true
+IpAddress,10.10.10.10,2018-09-16T12:11:06.2446367Z,Allowed,Informational,"Ip Address custom TI example","malware downloader","Recommended actions should be here","","","",false
+Url,http://www.facebook.com,2018-09-16T12:11:06.2446367Z,Block,Informational,"Url custom TI example","malware downloader","Recommended actions should be here","","","",true
+DomainName,www.facebook.com,,Audit,Low,Domain custom TI example,"Red Team Activity","Recommended actions should be here","","None","",true
