@@ -1,0 +1,4 @@
+﻿IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,zoomapp.cloud,,Audit,Low,Block Zoom,Block Zoom,Block,,None,,FALSE
+DomainName,zoom.us,,Audit,Low,Block Zoom,Block Zoom,Block,,None,,FALSE
+DomainName,zdmapi.zoom.us,,Audit,Low,Block Zoom,Block Zoom,Block,,None,,FALSE
