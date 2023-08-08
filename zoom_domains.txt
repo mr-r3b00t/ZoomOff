@@ -1,0 +1,3 @@
+zdmapi.zoom.us
+zoom.us
+zoomapp.cloud
